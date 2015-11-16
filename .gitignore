@@ -1,0 +1,8 @@
+.idea/tasks.xml
+.idea/workspace.xml
+.yardoc
+.idea*
+build/
+coverage
+doc
+*.iml
